@@ -1,0 +1,7 @@
+C:\Users\azizc\source\repos\Inverter String\Inverter String\bin\Debug\Inverter String.exe.config
+C:\Users\azizc\source\repos\Inverter String\Inverter String\bin\Debug\Inverter String.exe
+C:\Users\azizc\source\repos\Inverter String\Inverter String\bin\Debug\Inverter String.pdb
+C:\Users\azizc\source\repos\Inverter String\Inverter String\obj\Debug\Inverter String.csproj.AssemblyReference.cache
+C:\Users\azizc\source\repos\Inverter String\Inverter String\obj\Debug\Inverter String.csproj.CoreCompileInputs.cache
+C:\Users\azizc\source\repos\Inverter String\Inverter String\obj\Debug\Inverter String.exe
+C:\Users\azizc\source\repos\Inverter String\Inverter String\obj\Debug\Inverter String.pdb
